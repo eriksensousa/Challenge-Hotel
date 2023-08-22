@@ -11,14 +11,28 @@ Talking about the system, it lacks one basic thing that is the login panel for t
 
 Not only this the admin can easily add rooms and its services types. The admin can create many other facilities required for the guests in a hotel. Also, the user can book other miscellaneous activities in the hotel booking system. As a whole, this system is very much effective and user-friendly.
 
-Introduction: You can introduce the hotel management system as a free and open source project that is built in Java programming language with the help of NetBeans IDE. You can also mention the main features and benefits of the system, such as its simplicity, ease of use, and completeness.
+### Introduction
 
-Background: You can provide some background information on the problem that the system aims to solve, such as managing hotel reservations, payments, rooms, services, and facilities. You can also explain why a hotel management system is needed and how it can improve the efficiency and quality of hotel operations.
+The Hotel Management System is a software application designed to help hotels manage their operations more efficiently. The system is built using the Java programming language and is designed to be simple and easy to use. The goal of this project is to implement a complete hotel management system that can handle tasks such as managing reservations, payments, rooms, services, and facilities.
 
-Design: You can describe the design of the system, such as its architecture, components, modules, interfaces, and data structures. You can also explain how the system uses Sqlite database as its back-end to store and retrieve records for future use.
+### Background
 
-Implementation: You can discuss the implementation details of the system, such as the tools, libraries, frameworks, and technologies that are used to develop the system. You can also show some screenshots or code snippets of the system to illustrate its functionality and appearance.
+Managing a hotel can be a complex and challenging task. There are many different aspects to consider, such as managing reservations, handling payments, keeping track of room availability, and providing services and facilities to guests. A hotel management system can help streamline these tasks and improve the efficiency and quality of hotel operations.
 
-Evaluation: You can evaluate the performance and usability of the system, such as its speed, accuracy, reliability, security, and user-friendliness. You can also compare the system with other existing hotel management systems and highlight its advantages and disadvantages.
+### Design
 
-Conclusion: You can summarize the main points and findings of your project, such as the goals, achievements, challenges, and limitations of the system. You can also provide some suggestions for future improvements and extensions of the system.
+The Hotel Management System is designed using an object-oriented approach. The system is divided into several modules, each responsible for handling a specific aspect of hotel operations. For example, there is a module for managing reservations, another for handling payments, and another for keeping track of room availability.
+
+The system uses a graphical user interface (GUI) to make it easy for users to interact with the system. The GUI is built using the Java Swing library and provides a user-friendly interface for performing tasks such as making reservations, checking in guests, and generating reports.
+
+The system also uses a database to store information about reservations, payments, rooms, services, and facilities. The database is implemented using SQLite, which is a lightweight and easy-to-use database management system.
+
+### Implementation
+
+The Hotel Management System is implemented using the Java programming language. The system is developed using the NetBeans IDE, which provides tools for writing, compiling, and debugging Java code.
+
+The system uses several libraries and frameworks to implement its functionality. For example, the system uses the Java Database Connectivity (JDBC) API to connect to the SQLite database and perform database operations. The system also uses the Java Swing library to build its graphical user interface.
+
+### Conclusion
+
+In conclusion, the Hotel Management System is a complete software application designed to help hotels manage their operations more efficiently. The system is built using the Java programming language and uses an object-oriented design approach. The system provides a user-friendly interface for performing tasks such as managing reservations, handling payments, and keeping track of room availability. Overall, the Hotel Management System is an effective tool for improving the efficiency and quality of hotel operations.
